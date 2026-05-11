@@ -14,7 +14,7 @@ This folder contains archived assignments, categorized by academic year and seme
 **📄 Lecture Materials (/Slides)<br>**
 A dedicated space for the official course slides and instructional content provided by Dr. Javanmardi. These materials serve as the primary theoretical reference for the assignments and assessments.
 
-**📝 Assessments (/Exams)<br>**
+**📝 Assessments (/Exams-Archive)<br>**
 This directory features a collection of sample exam questions and assessment resources. The content will be progressively updated to provide comprehensive support for exam preparation.
 
 ## 🛠 Contribution
