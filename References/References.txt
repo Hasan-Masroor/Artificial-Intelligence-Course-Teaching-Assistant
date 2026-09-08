@@ -1,0 +1,17 @@
+📌 Fundamentals of AI — References
+
+Russell, Stuart J., and Peter Norvig.
+Artificial Intelligence: A Modern Approach.
+4th Global Edition.
+
+A comprehensive reference for the fundamental concepts and major approaches
+in artificial intelligence. The book covers topics including intelligent
+agents, problem-solving, search, constraint satisfaction, game playing,
+probabilistic reasoning, machine learning, and reinforcement learning.
+
+Recommended as a primary reference for the Fundamentals of Artificial
+Intelligence course and for further study of its core topics.
+
+📝 Note:
+The topics presented in the course slides do not necessarily follow the
+same order as they are presented in the book.
