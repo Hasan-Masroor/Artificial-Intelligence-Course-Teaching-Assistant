@@ -168,6 +168,8 @@ Additional semester materials, homework assignments, projects, teaching assistan
 
 The aim is to keep the repository organized, up to date, and useful as a supplementary reference for students throughout the course and across future semesters.
 
+**If you find this repository useful, consider giving it a ⭐ Star on GitHub to support its continued growth and maintenance.**
+
 ---
 
 *Developed and maintained as a supplementary educational resource for the Fundamentals and Applications of Artificial Intelligence course at Amirkabir University of Technology (Tehran Polytechnic).*
