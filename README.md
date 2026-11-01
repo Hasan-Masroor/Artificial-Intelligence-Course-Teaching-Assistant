@@ -1,4 +1,4 @@
-# Artificial Intelligence (AI) Course – Teaching Assistant Repository
+# Artificial Intelligence (AI) Course – Teaching Assistant Resources
 A collection of homework assignments, project resources, teaching assistant session materials, and examination archives for the **Fundamentals and Applications of Artificial Intelligence** course, taught by **Dr. Javanmardi** at **Amirkabir University of Technology (Tehran Polytechnic)**.
 
 This repository serves as a supplementary learning resource for students, bringing together course-related materials in one organized and accessible place.
