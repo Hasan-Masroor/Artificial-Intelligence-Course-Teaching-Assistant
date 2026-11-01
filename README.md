@@ -1,5 +1,5 @@
 # Artificial Intelligence (AI) Course – Teaching Assistant Repository
-A collection of course materials, homework assignments, project resources, teaching assistant session materials, and examination archives for the **Fundamentals and Applications of Artificial Intelligence** course, taught by **Dr. Javanmardi** at **Amirkabir University of Technology (Tehran Polytechnic)**.
+A collection of homework assignments, project resources, teaching assistant session materials, and examination archives for the **Fundamentals and Applications of Artificial Intelligence** course, taught by **Dr. Javanmardi** at **Amirkabir University of Technology (Tehran Polytechnic)**.
 
 This repository serves as a supplementary learning resource for students, bringing together course-related materials in one organized and accessible place.
 
@@ -12,7 +12,7 @@ This repository serves as a supplementary learning resource for students, bringi
 - [Contributing](#contributing)
 - [Updates & Maintenance](#updates--maintenance)
 
-## About the Course
+## 🎓 About the Course
 
 The Fundamentals and Applications of Artificial Intelligence course introduces the fundamental concepts, principles, and techniques behind intelligent systems.
 
@@ -20,7 +20,7 @@ Throughout the course, students explore how intelligent agents perceive and inte
 
 The course covers a range of classical Artificial Intelligence topics, combining theoretical foundations with algorithmic approaches and practical problem-solving techniques. This repository complements the lecture materials by providing additional resources for reviewing concepts, practicing algorithms, working on assignments and projects, and preparing for examinations.
 
-## Repository Structure
+## 📁 Repository Structure
 
 The repository is organized into semester-specific materials, teaching assistant sessions, examination archives, and reference resources.
 
@@ -69,9 +69,9 @@ Artificial-Intelligence-Course-Teaching-Assistant/
 └── README.md
 ```
 
-## Repository Contents
+## 📚 Repository Contents
 
-### 📚 Semester Materials (`/[Year]-[Semester]`)
+### Semester Assignments & Projects (`/[Year]-[Semester]`)
 
 This section contains homework assignments and course projects from different academic semesters. Materials are organized by semester to keep each term's content separate and make previous assignments and projects easy to access.
 
@@ -80,7 +80,7 @@ Each semester directory includes:
 - **Homeworks (`/Homeworks`):** Contains homework assignments, with each assignment organized in its own directory (`HW01`, `HW02`, etc.) and provided as a PDF file.
 - **Projects (`/Projects`):** Contains course project materials, organized into individual directories (`P01`, `P02`, etc.). Each project directory includes its description PDF and any accompanying resources, such as datasets, starter files, or supplementary materials.
 
-### 🧑‍🏫 Teaching Assistant Sessions (`/TA-Sessions`)
+### Teaching Assistant Sessions (`/TA-Sessions`)
 
 This directory contains materials from teaching assistant sessions, organized by the main topics covered in the course.
 
@@ -96,17 +96,17 @@ The current sections include:
 
 Each topic has a dedicated directory containing its corresponding session materials.
 
-### 📝 Examination Archive (`/Exams-Archive`)
+### Examination Archive (`/Exams-Archive`)
 
 This section provides a collection of examination materials for additional practice and exam preparation.
 
 It is divided into three directories:
 
-- **Berkeley Exams (`/Berkeley-Exams`):** A collection of University of California, Berkeley Artificial Intelligence midterm and final examination papers from 2011 to 2025, along with available solutions. These materials offer additional opportunities to practice classical AI problems and become familiar with different question styles.
+- **Berkeley Exams (`/Berkeley-Exams`):** A collection of Artificial Intelligence midterm and final exams from the University of California, Berkeley, along with available solutions. These materials provide additional opportunities to practice problem-solving and reinforce key concepts covered in the course.
 - **Midterm (`/Midterm`):** Previous midterm examination questions from the course, provided to help students become familiar with the instructor's examination style and question patterns.
 - **Final (`/Final`):** Previous final examination questions from the course for additional review and preparation.
 
-### 📖 References (`/References`)
+### References (`/References`)
 
 This directory contains recommended academic references for studying the fundamental concepts and methods covered in the course.
 
@@ -120,7 +120,7 @@ The textbook provides comprehensive coverage of Artificial Intelligence, includi
 
 **Note:** The sequence of topics covered in the course lectures does not necessarily follow the chapter order of the textbook.
 
-## Topics Covered
+## 🧠 Topics Covered
 
 The course covers the following major topics, presented in their general teaching order:
 
@@ -133,7 +133,7 @@ The course covers the following major topics, presented in their general teachin
 
 The depth and specific coverage of each topic may vary depending on the course materials and semester.
 
-## Contributing
+## 🤝 Contributing
 
 Feedback and contributions are welcome!
 
@@ -148,11 +148,11 @@ In particular, you can report or suggest:
 - Suggestions for improving the repository structure or documentation.
 - Additional learning resources relevant to the course.
 
-You can reach out through the email address listed on my GitHub profile to report an issue, share feedback, or suggest an improvement.
+You can contribute by opening a [GitHub Issue](../../issues) to report a problem, share feedback, or suggest an improvement. For other inquiries or further communication, you can also reach me via the email address listed on my GitHub profile.
 
 Please ensure that any shared materials are relevant to the course, properly attributed, and consistent with academic integrity and applicable copyright requirements.
 
-## Updates & Maintenance
+## 🔄 Updates & Maintenance
 
 This repository is maintained and updated as new course materials and resources become available.
 
@@ -162,4 +162,4 @@ The aim is to keep the repository organized, up to date, and useful as a supplem
 
 ---
 
-*Prepared as a supplementary educational resource for the Fundamentals and Applications of Artificial Intelligence course at Amirkabir University of Technology (Tehran Polytechnic).*
+*Developed and maintained as a supplementary educational resource for the Fundamentals and Applications of Artificial Intelligence course at Amirkabir University of Technology (Tehran Polytechnic).*
