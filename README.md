@@ -18,8 +18,9 @@ This repository serves as a supplementary learning resource for students, bringi
 - [Repository Contents](#repository-contents)
 - [Topics Covered](#topics-covered)
 - [Contributing](#contributing)
-- [Updates & Maintenance](#updates--maintenance)
+- [Updates & Maintenance](#updates-and-maintenance)
 
+<a id="about-the-course"></a>
 ## 🎓 About the Course
 
 The Fundamentals and Applications of Artificial Intelligence course introduces the fundamental concepts, principles, and techniques behind intelligent systems.
@@ -28,6 +29,7 @@ Throughout the course, students explore how intelligent agents perceive and inte
 
 The course covers a range of classical Artificial Intelligence topics, combining theoretical foundations with algorithmic approaches and practical problem-solving techniques. This repository complements the lecture materials by providing additional resources for reviewing concepts, practicing algorithms, working on assignments and projects, and preparing for examinations.
 
+<a id="repository-structure"></a>
 ## 📁 Repository Structure
 
 The repository is organized into semester-specific materials, teaching assistant sessions, examination archives, and reference resources.
@@ -77,6 +79,7 @@ Artificial-Intelligence-Course-Teaching-Assistant/
 └── README.md
 ```
 
+<a id="repository-contents"></a>
 ## 📚 Repository Contents
 
 ### Semester Assignments & Projects (`/[Year]-[Semester]`)
@@ -128,19 +131,23 @@ The textbook provides comprehensive coverage of Artificial Intelligence, includi
 
 **Note:** The sequence of topics covered in the course lectures does not necessarily follow the chapter order of the textbook.
 
+<a id="topics-covered"></a>
 ## 🧠 Topics Covered
 
 The course covers the following major topics, presented in their general teaching order:
 
-1. **Intelligent Agents:** Agent architectures, rationality, task environments, and PEAS descriptions.
-2. **Search:** Uninformed and informed search strategies, including BFS, DFS, UCS, IDS, Greedy Best-First Search, and A*.
-3. **Constraint Satisfaction Problems (CSP):** Constraint networks, backtracking search, constraint propagation, and consistency techniques.
-4. **Adversarial Search:** Game trees, Minimax, and Alpha-Beta Pruning.
-5. **Markov Decision Processes and Reinforcement Learning (MDP & RL):** Sequential decision-making, policies, value functions, and reinforcement learning algorithms.
-6. **Bayesian Networks and Probabilistic Reasoning:** Bayesian Networks, Decision Networks, Hidden Markov Models (HMMs), and Particle Filtering.
+| Topic | Key Concepts |
+|---|---|
+| **Intelligent Agents** | Agent architectures, rationality, task environments, and PEAS descriptions |
+| **Search** | Uninformed and informed search strategies, including BFS, DFS, UCS, IDS, Greedy Best-First Search, and A*. |
+| **Constraint Satisfaction Problems (CSP)** | Constraint networks, backtracking search, constraint propagation, and consistency techniques |
+| **Adversarial Search** | Game trees, Minimax, and Alpha-Beta Pruning |
+| **Markov Decision Processes and Reinforcement Learning (MDP & RL)** | Sequential decision-making, policies, value functions, and reinforcement learning algorithms |
+| **Bayesian Networks and Probabilistic Reasoning** | Bayesian Networks, Decision Networks, Hidden Markov Models (HMMs), and Particle Filtering |
 
 The depth and specific coverage of each topic may vary depending on the course materials and semester.
 
+<a id="contributing"></a>
 ## 🤝 Contributing
 
 Feedback and contributions are welcome!
@@ -160,6 +167,7 @@ You can contribute by opening a [GitHub Issue](https://github.com/Hasan-Masroor/
 
 Please ensure that any shared materials are relevant to the course, properly attributed, and consistent with academic integrity and applicable copyright requirements.
 
+<a id="updates-and-maintenance"></a>
 ## 🔄 Updates & Maintenance
 
 This repository is maintained and updated as new course materials and resources become available.
