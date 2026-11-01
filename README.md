@@ -3,6 +3,14 @@ A collection of homework assignments, project resources, teaching assistant sess
 
 This repository serves as a supplementary learning resource for students, bringing together course-related materials in one organized and accessible place.
 
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/5c17ec5b-9829-4d35-a76e-46a50e1c9887"
+    alt="Artificial Intelligence Course Overview"
+    width="750"
+  />
+</p>
+
 ## Table of Contents
 
 - [About the Course](#about-the-course)
@@ -148,7 +156,7 @@ In particular, you can report or suggest:
 - Suggestions for improving the repository structure or documentation.
 - Additional learning resources relevant to the course.
 
-You can contribute by opening a [GitHub Issue](../../issues) to report a problem, share feedback, or suggest an improvement. For other inquiries or further communication, you can also reach me via the email address listed on my GitHub profile.
+You can contribute by opening a [GitHub Issue](https://github.com/Hasan-Masroor/Artificial-Intelligence-Course-Teaching-Assistant/issues) to report a problem, share feedback, or suggest an improvement. For other inquiries or further communication, you can also reach me via the email address listed on my GitHub profile.
 
 Please ensure that any shared materials are relevant to the course, properly attributed, and consistent with academic integrity and applicable copyright requirements.
 
